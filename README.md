@@ -15,4 +15,7 @@
 ✅&nbsp;유지보수성과 확장성이 뛰어난 백엔드 개발자로 성장하는 것이 목표입니다.<br><br>
 
 
+📚&nbsp;[**Notion : Dev Log**](https://powerful-aluminum-b51.notion.site/Dev-Log-1aa9f65f01998030b05cc6eeb1d34832?pvs=4)<br><br>
+
+
 🚀&nbsp;**꾸준한 학습과 성장으로 더 나은 개발자가 되겠습니다.**
